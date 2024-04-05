@@ -1,0 +1,12 @@
+.StadisticsComponent {
+  width: 80%;
+}
+
+.total {
+  border: solid 1px black;
+}
+
+.cantidad {
+  color: #31b189;
+  font-size: 40px;
+}
